@@ -1,4 +1,4 @@
-# simple-java-maven-app - changed on Aug 26/2018 for testing Jump Start Demo
+# simple-java-maven-app - changed on Sep 18 2018 for testing Jump Start Training
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
